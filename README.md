@@ -1,6 +1,6 @@
 ### Hi, Shivam here 👋
 
-**I Love to Code And Automate the Stuffs
+I Love to Code And Automate the Stuffs
 
 - 🔭 I’m currently working on ...**Test Automation**
 - 👯 I’m looking to collaborate on ...**Coding**
